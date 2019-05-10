@@ -1,4 +1,5 @@
 import React from 'react';
+// import './utils/InitWeb3'
 
 function App() {
   return (
