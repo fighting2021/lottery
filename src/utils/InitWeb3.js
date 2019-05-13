@@ -9,8 +9,5 @@ let provider = window.web3.currentProvider
 // 设置Provider
 web3.setProvider(provider)
 
-// console.log("window.web3.provider : ", window.web3.version)
-// console.log("my web3.provider : ", web3.version)
-
 // 导出web3
 module.exports = web3

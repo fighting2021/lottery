@@ -70,7 +70,7 @@ contract Lottery {
     
     // 返回中奖者地址
     function getWinner() public view returns(address) {
-        return winner;
+        return wget
     }
     
     // 返回参与彩民的地址
